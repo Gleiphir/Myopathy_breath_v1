@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Myopathy_breath_v1</string>
+    <string name="waiting">Waiting for watch init</string>
+</resources>
